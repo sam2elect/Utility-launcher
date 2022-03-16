@@ -1,0 +1,13 @@
+{
+    "name": "electron-utility-launcher",
+    "version": "1.0.0",
+    "description": "A minimal Electron application",
+    "main": "main.js",
+    "author": "Samir",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "electron": "^17.1.2"
+    }
+}
